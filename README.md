@@ -28,29 +28,28 @@ I hold a degree in Computer Science with a focus on data analytics.
 
 
 ### R
-- **Project Name**: [Project Title](link-to-project)
+- **Project Name**: <yet ot be added?
   - **Description**: Brief description of what the project does and its key features.
   - **Technologies Used**: List the libraries/packages used in the project.
 
 ### PowerBI
-- **Project Name**: [Project Title](link-to-project)
-  - **Description**: Brief description of what the project does and its key features.
+- **Project Name**: 
+  - **Description**: 
+   - Link is below : https://app.powerbi.com/view?r=eyJrIjoiNWM5MGYwNTEtMmU5Zi00MThiLWJiZjgtODI0MTEyN2RkZmRkIiwidCI6IjZlZmQwZjIwLTU3YzgtNDQ0Ny1iNTNmLTAwZDQ5OTJjYTUwYiJ9
   - **Technologies Used**: List the features and data sources used in the project.
 
 ### Tableau
-- **Project Name**: https://app.powerbi.com/view?r=eyJrIjoiNWM5MGYwNTEtMmU5Zi00MThiLWJiZjgtODI0MTEyN2RkZmRkIiwidCI6IjZlZmQwZjIwLTU3YzgtNDQ0Ny1iNTNmLTAwZDQ5OTJjYTUwYiJ9
-  - **Description**: Its dashboard of Population sensus
+- **Project Name**: 
+  - **Description**: Gender comparision of vairous countries data visualization
+  - Link is below : (https://public.tableau.com/app/profile/srivani.yaddula/viz/3_1_Your_first_symbol_maporiginal_17393954834400/GenderHealthComparrison?publish=yes)
   - **Technologies Used**: Tableu and Excel
 
-### Access
-- **Project Name**: [Project Title](link-to-project)
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the features and tables used in the project.
 
 ### MySQL
-- **Project Name**: [Project Title](link-to-project)
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the features and databases used in the project.
+- **Project Name**: Gross domain project
+-   - **Description**: Gross domain sales projection across GDP, Life expectancy
+  - **Technologies Used**: Excel, pivots and Data charts/graphs
+  - Doucment : Attached
 
 ### Python and Pandas
 - **Project Name**: [Project Title](link-to-project)
