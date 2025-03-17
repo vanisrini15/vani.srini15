@@ -7,13 +7,13 @@ Data Analyst | Python Enthusiast | Lifelong Learner
 ---------------------------------------------------
 
 
-👋 Hi there! I’m Srivani an aspiring data analyst with a passion for unravelling insights from complex datasets. My journey involves turning raw data into actionable knowledge, and I’m excited to share my projects and experiences. This GitHub repository showcases my projects across various tools and technologies. Feel free to explore my projects and reach out if you have any questions or collaboration ideas! --please add more info with your personal infromation --
+👋 Hi there! I’m Srivani an aspiring data analyst with a passion for unravelling insights from complex datasets. My journey involves turning raw data into actionable knowledge, and I’m excited to share my projects and experiences. This GitHub repository showcases my projects across various tools and technologies. Feel free to explore my projects and reach out if you have any questions or collaboration ideas! 
 
 ## About Me 🎓 
 
 
--- please update this part with your pitch --
-I hold a degree in Computer Science with a focus on data analytics. 
+
+I hold a degree in Commerce a focus on data analytics. 
 
 📊 Proficient in Python, SQL, and data visualization tools (Matplotlib, Seaborn). 
 🧩 Skilled in data cleaning, exploratory data analysis (EDA), and statistical modelling. 
@@ -35,13 +35,13 @@ I hold a degree in Computer Science with a focus on data analytics.
 ### PowerBI
 - **Project Name**: 
   - **Description**: 
-   - Link is below : https://app.powerbi.com/view?r=eyJrIjoiNWM5MGYwNTEtMmU5Zi00MThiLWJiZjgtODI0MTEyN2RkZmRkIiwidCI6IjZlZmQwZjIwLTU3YzgtNDQ0Ny1iNTNmLTAwZDQ5OTJjYTUwYiJ9
+   - Link is below : **https://app.powerbi.com/view?r=eyJrIjoiNWM5MGYwNTEtMmU5Zi00MThiLWJiZjgtODI0MTEyN2RkZmRkIiwidCI6IjZlZmQwZjIwLTU3YzgtNDQ0Ny1iNTNmLTAwZDQ5OTJjYTUwYiJ9**
   - **Technologies Used**: List the features and data sources used in the project.
 
 ### Tableau
 - **Project Name**: 
   - **Description**: Gender comparision of vairous countries data visualization
-  - Link is below : (https://public.tableau.com/app/profile/srivani.yaddula/viz/3_1_Your_first_symbol_maporiginal_17393954834400/GenderHealthComparrison?publish=yes)
+  - Link is below : (**https://public.tableau.com/app/profile/srivani.yaddula/viz/3_1_Your_first_symbol_maporiginal_17393954834400/GenderHealthComparrison?publish=yes**)
   - **Technologies Used**: Tableu and Excel
 
 
@@ -71,7 +71,7 @@ I hold a degree in Computer Science with a focus on data analytics.
 
 
 * 🌍  I'm based in London
-* ✉️  You can contact me at email id is vani.srini15@gmail.co
+* ✉️  You can contact me at email id is vani.srini15@gmail.com
 * 🧠  I'm learning R, Pandas
 * 🤝  I'm open to collaborating on Health Economics, Healthcare projects
 
