@@ -11,8 +11,6 @@ Data Analyst | Python Enthusiast | Lifelong Learner
 
 ## About Me 🎓 
 
-
-
 I hold a degree in Commerce a focus on data analytics. 
 
 📊 Proficient in Python, SQL, and data visualization tools (Matplotlib, Seaborn). 
@@ -57,14 +55,11 @@ I hold a degree in Commerce a focus on data analytics.
   - **Technologies Used**: List the libraries/packages used in the project.
 
 ### DP900
-- **Project Name**: [Project Title](link-to-project)
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the tools and concepts used in the project.
+- **Project Name**: "Paws & Whiskers
+  - **Description**: Improve its operations by understanding data insights using sales, customer information, and inventory data. Currently, the data is collected manually or stored in spreadsheets. This approach limits efficiency, scalability, and the ability to make informed business decisions.  Transitioning to Microsoft Azure helps the business into cloud-based solution for data storage, analysis, reporting and to meet the goals meeting compliance with UK data regulations.
+Note : for the proejct refer to the attachments
 
-### Excel Modelling
-- **Project Name**: [Project Title](link-to-project)
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the functions and techniques used in the project.
+  - **Technologies Used**:Azure, Azure cosmosDB, SQL
 
 
 
