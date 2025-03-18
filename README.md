@@ -11,7 +11,7 @@ Data Analyst | Python Enthusiast | Lifelong Learner
 
 ## About Me 🎓 
 
-I hold a degree in Commerce a focus on data analytics with a passion for excellent insight from complex datasets. My journy involves turning raw data into actionable knowle3dge, and am excited to share my projects and experience. This Github repository showcases my projects across various tools and technologies. Please feel free to explore my projects and reach out if you have any questions or collborative ideas
+I hold a degree in Commerce a focus on data analytics with a passion for excellent insight from complex datasets. My journey involves turning raw data into actionable knowledge, and am excited to share my projects and experience. This Github repository showcases my projects across various tools and technologies. Please feel free to explore my projects and reach out if you have any questions or collborative ideas
 
 📊 Proficient in Python, SQL, and data visualization tools (Matplotlib, Seaborn). 
 🧩 Skilled in data cleaning, exploratory data analysis (EDA), and statistical modelling. 
